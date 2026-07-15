@@ -20,3 +20,7 @@
 ## 🔗 友情链接
 *   [我的 GitHub 主页](https://github.com/gsalan953-jpg)
 *   [我的口袋博客网址](https://gsalan953-jpg.github.io/blog/)
+---
+
+## 🗂️ 快捷传送
+*   [👉 点我进入：关于我的秘密基地](about.md)
