@@ -1,5 +1,5 @@
 # 🚀 DJJ的口袋极客基地
-
+![赛博武僧的头像](avatar.jpg)
 > "If you can dream it, you can code it." —— 欢迎来到我的赛博自留地。
 
 ---
