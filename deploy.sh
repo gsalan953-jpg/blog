@@ -35,3 +35,4 @@ if git push origin main; then
 else
     echo "❌ 推送失败，请检查手机网络或 GitHub 密钥配置！"
 fi
+alias deploy="~/deploy.sh"
